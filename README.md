@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Computer Science** | Passionate about Coding, DSA & Teaching  
 💻 **Languages**: C++, Java, Python  
-🧠 **Skills Recently Learned**: Artificial Neural Networks (ANN), JavaScript  
+🧠 **Skills Recently Learned**: Artificial Neural Networks (ANN), Natural Language Processing (NLP)  
 🌐 **Currently Learning**: Web Development (HTML, CSS, Node.js, React, SQL)  
 
 ---
